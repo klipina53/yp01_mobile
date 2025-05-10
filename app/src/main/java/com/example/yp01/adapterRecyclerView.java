@@ -1,16 +1,14 @@
-package com.example.yp_mobile;
+package com.example.yp01;
 
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
 import com.bumptech.glide.Glide;
-import com.example.yp_mobile.Dishes;
-import com.example.yp_mobile.R;
 import com.google.android.material.imageview.ShapeableImageView;
 
 import java.util.List;
